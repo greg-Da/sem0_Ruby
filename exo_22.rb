@@ -1,4 +1,4 @@
-# meme exo que dans l'exo_20.rb
+# meme exo que dans pyramide.rb
 
 puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?"
 print "> "
